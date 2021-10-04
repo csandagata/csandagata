@@ -1,7 +1,7 @@
-Hi, I’m @csandagata
-I’m interested in complex dynamic systems, modeling, and stats/causal inference
-My background is in economics
-I'm using this account for weekend projects at the moment
+- Hi, I’m @csandagata
+- I’m interested in complex dynamic systems, modeling, and stats/causal inference
+- My background is in economics
+- I'm using this account for weekend projects at the moment
 
 
 <!---
